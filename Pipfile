@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 flask = "*"
 flask-mongoengine = "*"
+flask-cors = "*"
 
 [dev-packages]
 
