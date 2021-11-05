@@ -45,4 +45,4 @@ def delete(noteId):
     return 
 
 
-app.run()
+app.run(debug=True)
